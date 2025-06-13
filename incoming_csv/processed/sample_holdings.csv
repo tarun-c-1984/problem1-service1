@@ -1,0 +1,3 @@
+holdingId,assetId,accountId,placeOfSafekeeping,holdingType,settQnty,pendQnty,pendRcvQntty,pendDlvrQntty,date
+250,ASSET1,ACC5,SAFE2,TYPE2,11,3,2,1,2025-06-12
+251,ASSET2,ACC2,SAFE2,TYPE2,11,3,2,1,2025-06-12
